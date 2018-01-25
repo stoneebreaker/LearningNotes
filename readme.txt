@@ -1,2 +1,1 @@
-sdfasdfasdf
-这是第一堂课的内容
+|--Notepad使用快捷键
